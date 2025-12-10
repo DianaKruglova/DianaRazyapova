@@ -1,5 +1,5 @@
 <div id="header" align='center'>
-  <h1>Привет! Я - Диана</h1>
+# Привет! Я - Диана</h1>
     <h3>QA Engineer из Уфы</h3>
       <a href="https://www.linkedin.com/in/diana-razyapova/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
