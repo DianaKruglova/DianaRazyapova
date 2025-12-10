@@ -1,6 +1,6 @@
 <div id="header" align='center'>
-<h1> Привет! Я - Диана</h1>
-    <h3>QA Engineer из Уфы</h3>
+<h1> Hi, I'm Diana Kruglova  </h1>
+    <h3>QA Engineer from Ufa</h3>
       <a href="https://www.linkedin.com/in/diana-razyapova/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
@@ -13,7 +13,7 @@
 </div>
 
 ### About me 
-- :page_facing_up: Мое резюме на площадках [CV](), [Habr Career](), [HeadHunter]()  
+- :page_facing_up: My resume on the sites [CV](), [Habr Career](), [HeadHunter]()  
 - :envelope: **kruglova.diana.qa@gmail.com**
 
 
@@ -43,7 +43,7 @@
 
 ### My stat
 <div id="stat" align='left'>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DianaRazyapova&theme=discord_old_blurple"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DianaRazyapova&theme=discord_old_blurple"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DianaRazyapova&theme=discord_old_blurple"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DianaKruglova&theme=discord_old_blurple"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DianaKruglova&theme=discord_old_blurple"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DianaKruglova&theme=discord_old_blurple"/>
 </div>
